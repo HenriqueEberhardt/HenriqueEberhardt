@@ -1,6 +1,6 @@
 # 💻 Henrique Eberhardt
 
-<img width="1536" height="1024" alt="Henrique Eberhardt Banner" src="https://github.com/user-attachments/assets/2deea9c9-be33-4b3d-abd6-8dacfaf155f4" />
+<img width="1536" height="1024" alt="d043f0a1-d961-4192-97b3-a17dbab82bdd" src="https://github.com/user-attachments/assets/2deea9c9-be33-4b3d-abd6-8dacfaf155f4" />
 
 ## 📋 Introduction
 
@@ -36,23 +36,18 @@ Back-end development has always caught my attention due to its logical challenge
 
 ## 📊 GitHub Statistics
 
-### 🚧 2025 (in progress)
-![GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=henriqueeberhardt&show_icons=true&theme=radical)
-![Top Langs 2025](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueeberhardt&layout=compact&theme=radical)
+### 📈 2025
+![Henrique's GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=HenriqueEberhardt&show_icons=true&theme=radical)
+![Top Langs 2025](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueEberhardt&layout=compact&theme=radical)
 
-### ✅ 2024 (closed year)
-
-> 📸 *Static snapshot of 2024 statistics below:*
-
-<img src="https://github.com/henriqueeberhardt/henriqueeberhardt/blob/main/assets/2024-stats.png" alt="2024 GitHub Stats" width="100%"/>
-
-> 📝 *Se ainda não adicionou a imagem, você pode gerar os stats com:*  
-> [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
-> e fazer o upload do PNG para a pasta `assets/` no seu repositório de perfil.
+### 📉 2024
+![Henrique's GitHub stats 2024](https://github-readme-stats.vercel.app/api?username=HenriqueEberhardt&show_icons=true&theme=radical&custom_title=2024%20Stats&cache_seconds=31536000)
+![Top Langs 2024](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueEberhardt&layout=compact&theme=radical&custom_title=Top%20Languages%202024&cache_seconds=31536000)
 
 ---
 
 ## 🌐 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqueeberhardt/)
-[![Email](https://img.shields.io/badge/-Email-%23333?style=flat&logo=gmail&logoColor=white)](mailto:henriqueeberhardt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-eberhardt-68a0752b6/)
+[![Email](https://img.shields.io/badge/-Email-%23333?style=flat&logo=gmail&logoColor=white)](mailto:hen.eberhart@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/henrique_eber/)
