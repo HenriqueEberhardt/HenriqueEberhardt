@@ -1,6 +1,6 @@
 # 💻 Henrique Eberhardt
 
-<img width="1536" height="1024" alt="d043f0a1-d961-4192-97b3-a17dbab82bdd" src="https://github.com/user-attachments/assets/2deea9c9-be33-4b3d-abd6-8dacfaf155f4" />
+<img width="1536" height="1024" alt="Henrique Eberhardt Banner" src="https://github.com/user-attachments/assets/2deea9c9-be33-4b3d-abd6-8dacfaf155f4" />
 
 ## 📋 Introduction
 
@@ -36,12 +36,18 @@ Back-end development has always caught my attention due to its logical challenge
 
 ## 📊 GitHub Statistics
 
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueEberhardt&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueEberhardt&layout=compact&theme=radical)
+### 🚧 2025 (in progress)
+![GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=HenriqueEberhardt&show_icons=true&theme=radical)
+![Top Langs 2025](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueEberhardt&layout=compact&theme=radical)
+
+### 📅 2024 Summary (auto-generated)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueEberhardt&theme=radical" alt="2024 Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HenriqueEberhardt&theme=radical&utcOffset=-3" alt="Coding Time" />
 
 ---
 
 ## 🌐 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK/)
-[![Email](https://img.shields.io/badge/-Email-%23333?style=flat&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqueeberhardt/)
+[![Email](https://img.shields.io/badge/-Email-%23333?style=flat&logo=gmail&logoColor=white)](mailto:henriqueeberhardt@gmail.com)
