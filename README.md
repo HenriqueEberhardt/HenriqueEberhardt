@@ -37,13 +37,18 @@ Back-end development has always caught my attention due to its logical challenge
 ## 📊 GitHub Statistics
 
 ### 🚧 2025 (in progress)
-![GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=HenriqueEberhardt&show_icons=true&theme=radical)
-![Top Langs 2025](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueEberhardt&layout=compact&theme=radical)
+![GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=henriqueeberhardt&show_icons=true&theme=radical)
+![Top Langs 2025](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueeberhardt&layout=compact&theme=radical)
 
-### 📅 2024 Summary (auto-generated)
+### ✅ 2024 (closed year)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueEberhardt&theme=radical" alt="2024 Summary" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HenriqueEberhardt&theme=radical&utcOffset=-3" alt="Coding Time" />
+> 📸 *Static snapshot of 2024 statistics below:*
+
+<img src="https://github.com/henriqueeberhardt/henriqueeberhardt/blob/main/assets/2024-stats.png" alt="2024 GitHub Stats" width="100%"/>
+
+> 📝 *Se ainda não adicionou a imagem, você pode gerar os stats com:*  
+> [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
+> e fazer o upload do PNG para a pasta `assets/` no seu repositório de perfil.
 
 ---
 
