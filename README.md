@@ -40,10 +40,6 @@ Back-end development has always caught my attention due to its logical challenge
 ![Henrique's GitHub stats 2025](https://github-readme-stats.vercel.app/api?username=HenriqueEberhardt&show_icons=true&theme=radical)
 ![Top Langs 2025](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueEberhardt&layout=compact&theme=radical)
 
-### 📉 2024
-![Henrique's GitHub stats 2024](https://github-readme-stats.vercel.app/api?username=HenriqueEberhardt&show_icons=true&theme=radical&custom_title=2024%20Stats&cache_seconds=31536000)
-![Top Langs 2024](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueEberhardt&layout=compact&theme=radical&custom_title=Top%20Languages%202024&cache_seconds=31536000)
-
 ---
 
 ## 🌐 Contact
